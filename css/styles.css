@@ -1,0 +1,26 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: blue;
+  font-size: 60 px;
+  font-family: fantasy;
+  font-weight: bolder;
+}
+
+.important {
+  color: purple;
+  font-weight: bolder;
+}
+
+img {
+  max-width: 300px;
+  height: auto;
+  align-items: center;
+}
+
+body {
+  text-align: center;
+}
